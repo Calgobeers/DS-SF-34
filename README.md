@@ -8,7 +8,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 |:---:|:---:|:---|:---|:---|
 | [01](./classes/01) | 4/17 | [What is Data Science](./classes/01) | | |
 | [02](./classes/02) | 4/19 | [The _pandas_ Library](./classes/02) | | |
-| 03 | 4/24 | Databases, Scrapping, and APIs | | |
+| [03](./classes/03) | 4/24 | [Databases, Scrapping, and APIs](./classes/03) | | |
 | 04 | 4/26 | Exploratory Data Analysis | | |
 | 05 | 5/1 | k-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
 | 06 | 5/3 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
