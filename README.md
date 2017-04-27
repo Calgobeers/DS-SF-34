@@ -9,7 +9,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [01](./classes/01) | 4/17 | [What is Data Science](./classes/01) | | |
 | [02](./classes/02) | 4/19 | [The _pandas_ Library](./classes/02) | | |
 | [03](./classes/03) | 4/24 | [Databases, Scrapping, and APIs](./classes/03) | | |
-| 04 | 4/26 | Exploratory Data Analysis | | |
+| [04](./classes/04) | 4/26 | [Exploratory Data Analysis](./classes/04) | | |
 | 05 | 5/1 | k-Nearest Neighbors | **[Unit Project 1](./unit-project/1)** | |
 | 06 | 5/3 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
 | 07 | 5/8 | Linear Regression | | |
@@ -37,7 +37,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ## Office Hours
 
-- Gus and Mohit: TBD
+- Gus/Mohit: Mondays and Wednesdays, 4:30 PM to 6:30 PM.
 - Ivan: On demand/per request; usually just before or after class and online (e.g., Slack)
 
 ## Slack
