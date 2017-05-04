@@ -11,7 +11,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [03](./classes/03) | 4/24 | [Databases, Scrapping, and APIs](./classes/03) | | |
 | [04](./classes/04) | 4/26 | [Exploratory Data Analysis](./classes/04) | | |
 | [05](./classes/05) | 5/1 | [_k_-Nearest Neighbors](./classes/05) | **[Unit Project 1](./unit-project/1)** | |
-| 06 | 5/3 | Applied Data Wrangling and Exploratory Data Analysis | | **[Unit Project 1](./unit-project/1)** |
+| [06](./classes/06) | 5/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | **[Unit Project 1](./unit-project/1)** |
 | 07 | 5/8 | Linear Regression | | |
 | 08 | 5/10 | Linear Regression, Part 2 | **[Final Project 1](./final-project/1)** | |
 | 09 | 5/15 | Linear Regression, Part 3 | **[Unit Project 2](./unit-project/2)** | |
