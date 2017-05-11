@@ -13,7 +13,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [05](./classes/05) | 5/1 | [_k_-Nearest Neighbors](./classes/05) | **[Unit Project 1](./unit-project/1)** | |
 | [06](./classes/06) | 5/3 | [Applied Data Wrangling and Exploratory Data Analysis](./classes/06) | | |
 | [07](./classes/07) | 5/8 | [Linear Regression](./classes/07) | | **[Unit Project 1](./unit-project/1)** |
-| 08 | 5/10 | Linear Regression, Part 2 | **[Final Project 1](./final-project/1)** | |
+| [08](./classes/08) | 5/10 | [Linear Regression, Part 2](./classes/08) | **[Final Project 1](./final-project/1)** | |
 | 09 | 5/15 | Linear Regression, Part 3 | **[Unit Project 2](./unit-project/2)** | |
 | 10 | 5/17 | Regularization | | **[Final Project 1](./final-project/1)** |
 | 11 | 5/22 | Logistic Regression | | **[Unit Project 2](./unit-project/2)** |
