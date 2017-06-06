@@ -19,7 +19,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [11](./classes/11) | 5/22 | [Logistic Regression](./classes/11) | | **[Unit Project 2](./unit-project/2)** |
 | 12 | 5/24 | Applied Machine Learning Modeling | | |
 | [13](./classes/13) | 5/31 | [Advanced Metrics](./classes/13) | **[Final Project 2](./final-project/2)** | |
-| 14 | 6/5 | Clustering | **[Unit Project 3](./unit-project/3)** | |
+| [14](./classes/14) | 6/5 | [Clustering](./classes/14) | **[Unit Project 3](./unit-project/3)** | |
 | 15 | 6/7 | Intermediate Project Presentations | | **[Final Project 2](./final-project/2)** |
 | 16 | 6/12 | Trees | | **[Unit Project 3](./unit-project/3)** |
 | 17 | 6/14 | Applied Machine Learning Modeling, Part 2 | | |
