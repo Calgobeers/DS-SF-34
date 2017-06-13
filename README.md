@@ -21,7 +21,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 | [13](./classes/13) | 5/31 | [Advanced Metrics](./classes/13) | **[Final Project 2](./final-project/2)** | |
 | [14](./classes/14) | 6/5 | [Clustering](./classes/14) | **[Unit Project 3](./unit-project/3)** | |
 | 15 | 6/7 | Intermediate Project Presentations | | **[Final Project 2](./final-project/2)** |
-| 16 | 6/12 | Trees | | **[Unit Project 3](./unit-project/3)** |
+| [16](./classes/16) | 6/12 | [Trees](./classes/16) | | **[Unit Project 3](./unit-project/3)** |
 | 17 | 6/14 | Applied Machine Learning Modeling, Part 2 | | |
 | 18 | 6/19 | Natural Language Processing | | |
 | 19 | 6/21 | Time Series | | |
